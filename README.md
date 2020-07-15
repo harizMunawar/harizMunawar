@@ -16,3 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true)
+
+<h1 align="center">
+where you can find me
+  
+  <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/hariz-munawar-2247531a0/">
+    <img src="https://img.shields.io/badge/linkedin-hariz-munawar-blue">
+  </a>
+  
+  <a href="https://www.reddit.com/user/harizmunawar">
+    <img src="https://img.shields.io/badge/reddit-harizMunawar-red">
+  </a>
+</p>
+</h1>
