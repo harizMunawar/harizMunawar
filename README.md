@@ -22,12 +22,12 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 <code><img height="20" src="https://cdn.svgporn.com/logos/webpack.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.sv"></code>
-
+<code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="20" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/632690741557997006-512.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Bootstrap-512.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true)
