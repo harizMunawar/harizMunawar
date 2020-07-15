@@ -21,17 +21,16 @@ Here are some ideas to get you started:
 -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true)
-
-Where you can find me
-    <a href="https://www.linkedin.com/in/hariz-munawar-2247531a0/">
+<h1>Where you can find me</h1>
+<a href="https://www.linkedin.com/in/hariz-munawar-2247531a0/">
     <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-    </a>
-    <a href="https://www.instagram.com/hariz.munawar">
-      <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-    </a>
-    <a href="mailto:munawarhariz@gmail.com">
-      <img width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-    </a>
-    <a href="https://www.reddit.com/user/harizmunawar">
-      <img width="26px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-reddit-3.png" />
-    </a>
+</a>
+<a href="https://www.instagram.com/hariz.munawar">
+  <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a>
+<a href="mailto:munawarhariz@gmail.com">
+  <img width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+<a href="https://www.reddit.com/user/harizmunawar">
+  <img width="26px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-reddit-3.png" />
+</a>
