@@ -2,7 +2,8 @@
 
 Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz you can call me anything you want. I'm a 16 y/o Back-end Developer, Dev-Ops and basically anything that doesn't involve design. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering. Big fan of **Django**. I'm willing to learn anything as long as it is fun.
 
-💬 Ask me about anything, I'll help as much as i can\n
+💬 Ask me about anything, I'll help as much as i can
+
 ⚡ Fun fact: - JoJo Fan and also I don't drink mineral water (I know that is unhealty and I might probably die soon lol)
 
 **What i'm currently working on:**
