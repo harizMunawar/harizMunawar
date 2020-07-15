@@ -22,7 +22,7 @@ where you can find me
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/hariz-munawar-2247531a0/">
-    <img src="https://img.shields.io/badge/linkedin-hariz-munawar-blue">
+    <img src="https://img.shields.io/badge/linkedin-hariz--munawar-blue">
   </a>
   
   <a href="https://www.reddit.com/user/harizmunawar">
