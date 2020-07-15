@@ -2,23 +2,27 @@
 
 Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz you can call me anything you want. I'm a 16 y/o Back-end Developer, Dev-Ops and basically anything that doesn't involve design. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering. Big fan of **Django**. I'm willing to learn anything as long as it is fun.
 
+💬 Ask me about anything, I'll help as much as i can
+⚡ Fun fact: - JoJo Fan and also I don't drink mineral water (I know that is unhealty and I might probably die soon lol)
+
 **What i'm currently working on:**
 - [Robo-Hasbi](https://github.com/digibitstudio/robo-hasbi)
 - [COVID-19 Case Tracker](https://github.com/harizMunawar/django-corona)
-- Personal CV Website *coming soon*
+- Personal CV Website (maybe) *coming soon*
 
-<--
-Here are some ideas to get you started:
+**What i'm currently learning:**
+- [Tailwind CSS](https://tailwindcss.com/)
+- Data Visualization
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Language and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/webpack.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true)
 <h1>Where you can find me</h1>
