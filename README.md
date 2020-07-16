@@ -4,7 +4,6 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 
 💬 Ask me about anything, I'll help as much as i can
 
-⚡ Fun fact: JoJo Fan and also I don't drink mineral water (I know that is unhealty and I might probably die soon lol)
 
 **What i'm currently working on:**
 - [Robo-Hasbi](https://github.com/digibitstudio/robo-hasbi)
