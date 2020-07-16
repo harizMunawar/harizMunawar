@@ -11,7 +11,6 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 - Personal CV Website (maybe) *coming soon*
 
 **What i'm currently learning:**
-- [Tailwind CSS](https://tailwindcss.com/)
 - Data Visualization
 - Machine Learning
 
