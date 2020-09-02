@@ -8,6 +8,7 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 **What i'm currently working on:**
 - [Robo-Hasbi](https://github.com/digibitstudio/robo-hasbi)
 - [Django Covid Tracker](https://github.com/harizMunawar/django-corona)
+- [School Report Management](https://github.com/harizMunawar/school-report-management)
 
 **What i'm currently learning:**
 - Laravel
