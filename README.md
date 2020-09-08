@@ -11,7 +11,7 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 - [School Report Management](https://github.com/harizMunawar/school-report-management)
 
 **What i'm currently learning:**
-- Laravel
+- Django REST Framework
 - Data Visualization
 - Machine Learning
 
