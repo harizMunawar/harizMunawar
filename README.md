@@ -34,8 +34,10 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
     
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true" height=180 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harizMunawar&layout=compact" height=180 />
+</p>
 <h1>Where you can find me</h1>
 <a href="https://www.linkedin.com/in/hariz-munawar-2247531a0/">
     <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
