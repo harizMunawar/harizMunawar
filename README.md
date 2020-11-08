@@ -1,4 +1,4 @@
-### Hello world <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Hariz
+### Hello world, I'm Hariz
 
 Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz you can call me anything you want. I'm a 16 y/o Back-end Developer, Dev-Ops and basically anything that doesn't involve design. Student at [SMK Negeri 1 Cimahi](https://www.smkn1-cmi.sch.id/) Software Engineering. Big fan of **Django**. I'm willing to learn anything as long as it is fun.
 
@@ -7,13 +7,12 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 
 **What i'm currently working on:**
 - [Discord Bot](https://github.com/digibitstudio/robo-hasbi)
-- [Django Covid Tracker](https://github.com/harizMunawar/django-corona)
+- [KBBI Scraper](https://github.com/harizMunawar/kbbi-scraper)
 - [School Report Management](https://github.com/harizMunawar/school-report-management)
 
 **What i'm currently learning:**
-- Django REST Framework
-- Data Visualization
-- Machine Learning
+- Web Scraping
+- AI
 
 **Language and Tools:**  
 
@@ -21,7 +20,6 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 <code><img height="20" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img height="20" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/632690741557997006-512.png"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Bootstrap-512.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
