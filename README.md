@@ -8,7 +8,7 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 **What i'm currently working on:**
 - [Discord Bot](https://github.com/digibitstudio/robo-hasbi)
 - [KBBI Scraper](https://github.com/harizMunawar/kbbi-scraper)
-- [School Report Management](https://github.com/harizMunawar/school-report-management)
+- [School Report Management](https://github.com/harizMunawar/REI)
 
 **What i'm currently learning:**
 - Web Scraping
