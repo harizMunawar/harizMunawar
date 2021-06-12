@@ -6,15 +6,12 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 
 
 **What i'm currently working on:**
-- [Discord Bot](https://github.com/digibitstudio/robo-hasbi)
-- [KBBI Scraper](https://github.com/harizMunawar/kbbi-scraper)
-- [School Report Management](https://github.com/harizMunawar/REI)
-
+- [E-Commerce's RESTful API](https://github.com/RifkiEr24/La-Virtuele)
 **What i'm currently learning:**
+- Golang
 - Web Scraping
-- AI
 
-**Language and Tools:**  
+**Language and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
@@ -30,22 +27,10 @@ Hello everyone my name is Hariz Sufyan Munawar, although I'm mostly called Hariz
 <code><img height="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    
+<code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
+
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=harizMunawar&show_icons=true" height=180 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harizMunawar&layout=compact" height=180 />
 </p>
-<h1>Where you can find me</h1>
-<a href="https://www.linkedin.com/in/hariz-munawar-2247531a0/">
-    <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/hariz.munawar">
-  <img width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-</a>
-<a href="mailto:munawarhariz@gmail.com">
-  <img width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-<a href="https://www.reddit.com/user/harizmunawar">
-  <img width="26px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-reddit-3.png" />
-</a>
